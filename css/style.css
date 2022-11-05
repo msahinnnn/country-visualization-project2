@@ -1,0 +1,49 @@
+#head{
+    background-color:darkgrey;
+    height: 200px;
+    text-align: center;
+    padding: 60px;
+}
+
+#controller{
+    background-color:rgb(255, 255, 255);
+    height: 200px;
+    text-align: center;
+    padding: 60px; 
+}
+
+#countries{
+    background-color:darkgrey;
+    padding: 60px;
+}
+
+#btn{
+    background-color: brown;
+}
+
+#searchbar{
+    background-color: rgb(255, 72, 0);
+    width: 1%;
+    height:50px;
+}
+
+#leftbox {
+    float:left; 
+    background:Red;
+    width:10%;
+    height:50px;
+}
+#middlebox{
+    float:left; 
+    background:rgb(172, 167, 167);
+    width:80%;
+    height:50px;
+    outline: solid 2px black;
+}
+#rightbox{
+    float:right;
+    background:blue;
+    width:10%;
+    height:50px;
+}
+
